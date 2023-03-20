@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aludwig/repos/genre_classification/mlruns/0/f92ed8e77b6f455597025e1bab0590c3/artifacts
+end_time: 1679350078391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f92ed8e77b6f455597025e1bab0590c3
+run_uuid: f92ed8e77b6f455597025e1bab0590c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679350076824
+status: 4
+tags: []
+user_id: aludwig

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aludwig/repos/genre_classification/mlruns/0/eaa566ea765144a8a33573624b9f2e8b/artifacts
+end_time: 1679350245401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaa566ea765144a8a33573624b9f2e8b
+run_name: likeable-shark-315
+run_uuid: eaa566ea765144a8a33573624b9f2e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679350228571
+status: 3
+tags: []
+user_id: aludwig

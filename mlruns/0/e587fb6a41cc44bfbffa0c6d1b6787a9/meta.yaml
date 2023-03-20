@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aludwig/repos/genre_classification/mlruns/0/e587fb6a41cc44bfbffa0c6d1b6787a9/artifacts
+end_time: 1679350262358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e587fb6a41cc44bfbffa0c6d1b6787a9
+run_name: gentle-ox-576
+run_uuid: e587fb6a41cc44bfbffa0c6d1b6787a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679350245410
+status: 3
+tags: []
+user_id: aludwig

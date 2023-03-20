@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aludwig/repos/genre_classification/mlruns/0/eaddc70b02284c9dbf17b205fa98fa0a/artifacts
+end_time: 1679350472646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaddc70b02284c9dbf17b205fa98fa0a
+run_name: smiling-kit-556
+run_uuid: eaddc70b02284c9dbf17b205fa98fa0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679350451889
+status: 3
+tags: []
+user_id: aludwig

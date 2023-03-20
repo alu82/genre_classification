@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aludwig/repos/genre_classification/mlruns/0/a64559acf231482ea8c0368af83ab124/artifacts
+end_time: 1679350495871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a64559acf231482ea8c0368af83ab124
+run_name: legendary-lamb-387
+run_uuid: a64559acf231482ea8c0368af83ab124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679350472658
+status: 3
+tags: []
+user_id: aludwig

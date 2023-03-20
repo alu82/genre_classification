@@ -2,6 +2,7 @@ import mlflow
 import os
 import hydra
 from omegaconf import DictConfig, OmegaConf
+import omegaconf
 
 
 # This automatically reads in the configuration
@@ -20,7 +21,7 @@ def go(config: DictConfig):
         # This was passed on the command line as a comma-separated list of steps
         steps_to_execute = config["main"]["execute_steps"].split(",")
     else:
-        assert isinstance(config["main"]["execute_steps"], list)
+        assert isinstance(config["main"]["execute_steps"], omegaconf.listconfig.ListConfig)
         steps_to_execute = config["main"]["execute_steps"]
 
     # Download step
@@ -103,7 +104,6 @@ def go(config: DictConfig):
                 "test_data": "data_test.csv:latest"
             },
         )
-
 
 if __name__ == "__main__":
     go()

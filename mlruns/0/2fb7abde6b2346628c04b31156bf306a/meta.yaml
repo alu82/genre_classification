@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aludwig/repos/genre_classification/mlruns/0/2fb7abde6b2346628c04b31156bf306a/artifacts
+end_time: 1679350510504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fb7abde6b2346628c04b31156bf306a
+run_name: brawny-mare-744
+run_uuid: 2fb7abde6b2346628c04b31156bf306a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679350495879
+status: 3
+tags: []
+user_id: aludwig

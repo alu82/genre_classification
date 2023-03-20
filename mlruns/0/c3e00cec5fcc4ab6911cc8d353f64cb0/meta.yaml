@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aludwig/repos/genre_classification/mlruns/0/c3e00cec5fcc4ab6911cc8d353f64cb0/artifacts
+end_time: 1679350439654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3e00cec5fcc4ab6911cc8d353f64cb0
+run_name: illustrious-lamb-10
+run_uuid: c3e00cec5fcc4ab6911cc8d353f64cb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679350426710
+status: 3
+tags: []
+user_id: aludwig
