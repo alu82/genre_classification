@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aludwig/repos/genre_classification/mlruns/0/cdaada3b5e56492988f559cf8208d878/artifacts
+end_time: 1679350714096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdaada3b5e56492988f559cf8208d878
+run_name: useful-crow-224
+run_uuid: cdaada3b5e56492988f559cf8208d878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679350693248
+status: 3
+tags: []
+user_id: aludwig

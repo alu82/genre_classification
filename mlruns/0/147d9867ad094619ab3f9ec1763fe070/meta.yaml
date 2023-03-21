@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aludwig/repos/genre_classification/mlruns/0/147d9867ad094619ab3f9ec1763fe070/artifacts
+end_time: 1679350737307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 147d9867ad094619ab3f9ec1763fe070
+run_name: agreeable-asp-820
+run_uuid: 147d9867ad094619ab3f9ec1763fe070
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679350714109
+status: 3
+tags: []
+user_id: aludwig

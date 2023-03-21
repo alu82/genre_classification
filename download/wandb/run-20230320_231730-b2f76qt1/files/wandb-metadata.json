@@ -1,0 +1,114 @@
+{
+    "os": "Linux-6.0.12-76060006-generic-x86_64-with-glibc2.35",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-03-20T22:17:30.649764",
+    "startedAt": "2023-03-20T22:17:30.162102",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/home/aludwig/repos/genre_classification/download/download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/alu82/genre_classification.git",
+        "commit": "091c4de732ced490ebc7ae939a7522a047ce7e17"
+    },
+    "email": "ldw_srv@posteo.de",
+    "root": "/home/aludwig/repos/genre_classification",
+    "host": "pc-alu",
+    "username": "aludwig",
+    "executable": "/home/aludwig/tools/miniconda3/envs/mlflow-3ac2cd7f0e5fb6e2bd0325483cb9d8ecedb0fe65/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2666.7405,
+        "min": 2200.0,
+        "max": 3700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2874.567,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2866.548,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3700.0,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3595.095,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2890.436,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2874.24,
+            "min": 2200.0,
+            "max": 3700.0
+        }
+    ],
+    "disk": {
+        "total": 448.5188636779785,
+        "used": 130.427490234375
+    },
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1080 Ti",
+            "memory_total": 11811160064
+        }
+    ],
+    "memory": {
+        "total": 15.524154663085938
+    }
+}

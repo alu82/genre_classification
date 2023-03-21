@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aludwig/repos/genre_classification/mlruns/0/17fdbe424f694c0fb34ace4e71bb1f23/artifacts
+end_time: 1679350680988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17fdbe424f694c0fb34ace4e71bb1f23
+run_name: persistent-loon-34
+run_uuid: 17fdbe424f694c0fb34ace4e71bb1f23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679350664784
+status: 3
+tags: []
+user_id: aludwig
